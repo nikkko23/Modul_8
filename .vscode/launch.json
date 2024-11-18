@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "python",
+            "name": "debug test_mission_planner.py",
+            "request": "launch",
+            "justMyCode": false,
+            "args": [],
+            "program": "c:\\Users\\n.kondratev\\Desktop\\BAS\\modul_8\\md_8\\8.3_test-verification\\source\\test_mission_planner.py"
+        }
+    ]
+}
